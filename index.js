@@ -15,7 +15,7 @@ const addFunk = () => {
     });
 
     } else {
-        alert("Please enter a task. Nerd.");
+        alert("Please enter a task.");
     }
 }
 
